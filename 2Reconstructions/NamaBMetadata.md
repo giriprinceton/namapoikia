@@ -4,7 +4,7 @@
 
 42.33 x 42.33 x *100* microns
 
-Note that the 100 micron step size is found by measuring multiple blender models (*describe procedure here*).
+Note that the 100 micron step size is verified by measuring multiple blender models.
 
 ## Field of view (reconstruction extents)
 
