@@ -17,6 +17,7 @@ function all_sub_processed_data = subVolume_analysis(subvolume_thickness_maps, s
     for idx = 1:to_study
         % Load up the data
         data = load_raw_data(subvolume_thickness_maps{idx}, subvolume_data_dims{idx}, 'float32');
+        keyboard
         % Okay, now let's process the thickness map
         processed = process_thickness_map(data, 1, ...
             max(data(:)), subvolume_titles{idx});
