@@ -16,6 +16,7 @@ You will not be able to build the interpolated map seen in Fig. 1 without the fo
 
 1. [mGstat](http://mgstat.sourceforge.net/) Download and unzip the latest stable version of mGstat into this directory. In Matlab, make sure that the mGstat directory is added to your path (in the file explorer, right-click on the mGstat folder and select "Add To Path -> Selected Folder and Subfolders). 
 2. [fminsearchbnd](https://www.mathworks.com/matlabcentral/fileexchange/8277-fminsearchbnd-fminsearchcon) Like mGstat, download and unzip fminsearchbnd into this directory. Once again, add the directory to the path.
+3. [variogramfit](https://www.mathworks.com/matlabcentral/fileexchange/25948-variogramfit) Download and place in the 1Map directory. 
 
 ### Running this code
 
